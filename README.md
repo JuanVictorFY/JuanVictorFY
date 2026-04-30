@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">  
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanVictorFY&label=Vistas&style=for-the-badge&color_gradient=007bff,00c853,2962ff" alt="juan-views" />
 </p>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&include_all_commits=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
@@ -101,5 +101,9 @@
   
   <a href="https://github.com/JuanVictorFY" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
 </div>
