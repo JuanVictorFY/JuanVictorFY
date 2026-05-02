@@ -79,18 +79,21 @@
 </p>
 </div>
 
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlign=50"/>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&include_all_commits=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdhuMS&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdhuMS&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
 </div>
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <h3>📫 Conecta conmigo</h3>
