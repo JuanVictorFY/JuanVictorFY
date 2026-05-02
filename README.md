@@ -85,7 +85,7 @@
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true" height="160" alt="languages graph" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
 </div>
