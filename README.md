@@ -79,16 +79,15 @@
 </p>
 </div>
 
-
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlign=50"/>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdhuMS&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdhuMS&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
 </div>
 
 <br>
@@ -106,7 +105,7 @@
     <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
   
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank" style="margin: 0 15px;">
+  <a href="https://linkedin.com/in/TU_USUARIO_AQUI" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
 </div>
