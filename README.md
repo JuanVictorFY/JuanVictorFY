@@ -151,7 +151,7 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-primecodeengineering%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primecodeengineering@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-figyupton99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:figyupton99@gmail.com)
   &nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-JuanVictorFY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVictorFY)
   &nbsp;
