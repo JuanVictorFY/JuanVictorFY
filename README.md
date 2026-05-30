@@ -115,8 +115,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8" height="175" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanVictorFY&theme=tokyonight" height="175" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanVictorFY&theme=tokyonight" height="175" alt="top languages"/>
 
   <br><br>
 
