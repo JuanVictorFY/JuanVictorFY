@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=45&lines=Apasionado+por+el+desarrollo+Full-Stack+💻;Backend+robusto+con+Node.js+%26+Spring+Boot+⚙️;Interfaces+dinámicas+con+React+%26+Angular+⚛️;%22Si+puedes+imaginarlo%2C+puedes+programarlo%22+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Apasionado+por+el+desarrollo+Full-Stack;Backend+con+Node.js+%26+Spring+Boot;Frontend+con+React+%26+Angular;Si+puedes+imaginarlo%2C+puedes+programarlo" alt="Typing SVG" />
 </div>
 
 <br>
