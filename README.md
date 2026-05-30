@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2962ff&center=true&vCenter=true&width=700&lines=Hola,+soy+Juan+Victor+Figueroa+Yupton;Ing.+de+Software+en+proceso...;Apasionado+por+el+desarrollo+Full-Stack;Estudiante+en+la+UTP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2962FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Juan+Victor+Figueroa+Yupton;Ing.+de+Software+en+proceso...;Apasionado+por+el+desarrollo+Full-Stack;Estudiante+en+la+UTP" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanVictorFY&label=Vistas&style=for-the-badge&color_gradient=007bff,00c853,2962ff" alt="juan-views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanVictorFY&label=Vistas+al+perfil&style=for-the-badge&color=2962ff" alt="juan-views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Sobre%20mí&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Sobre%20m%C3%AD&fontSize=30&fontColor=ffffff&fontAlign=50"/>
 
 <table>
   <tr>
@@ -17,9 +17,9 @@
       Soy estudiante de Ingeniería de Software (7mo ciclo) en la UTP. Me especializo en el desarrollo Full-Stack, combinando lógica robusta en el backend con interfaces dinámicas en el frontend.
       <br><br>
       <ul>
-        <li> Actualmente enfocado en escalar mis proyectos universitarios y fortalecer mis habilidades técnicas.</li>
-        <li> Profundizando en arquitecturas escalables y nuevas tecnologías de despliegue.</li>
-        <li> <b>Mi filosofía:</b> Si puedes imaginarlo, puedes programarlo.</li>
+        <li>Actualmente enfocado en escalar mis proyectos universitarios y fortalecer mis habilidades técnicas.</li>
+        <li>Profundizando en arquitecturas escalables y nuevas tecnologías de despliegue.</li>
+        <li><b>Mi filosofía:</b> Si puedes imaginarlo, puedes programarlo.</li>
       </ul>
     </td>
     <td width="40%">
@@ -80,14 +80,27 @@
 </div>
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlign=50"/>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true" height="160" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true&langs_count=8" height="165" alt="languages graph" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515&fire=FF6B35&ring=2962FF&currStreakLabel=2962FF" height="165" alt="streak graph" />
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanVictorFY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVictorFY&theme=tokyo-night&hide_border=true&bg_color=151515" alt="activity graph" width="100%"/>
+
 </div>
 
 <br>
@@ -96,16 +109,20 @@
 
 <div align="center">
   <h3>📫 Conecta conmigo</h3>
-  
-  <a href="mailto:figyupton99@gmail.com" style="margin: 0 15px;">
+
+  <a href="mailto:primecodeengineering@gmail.com" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
-  
+
   <a href="https://github.com/JuanVictorFY" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
-  
-  <a href="https://linkedin.com/in/TU_USUARIO_AQUI" target="_blank" style="margin: 0 15px;">
+
+  <a href="https://linkedin.com/in/JuanVictorFY" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
   </a>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
