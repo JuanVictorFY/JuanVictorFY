@@ -86,8 +86,8 @@
 <div align="center">
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&count_private=true&include_all_commits=true&langs_count=8" height="165" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanVictorFY&theme=tokyonight" height="165" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanVictorFY&theme=tokyonight" height="165" alt="languages graph" />
 
   <br><br>
 
@@ -95,7 +95,7 @@
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanVictorFY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanVictorFY&theme=tokyonight" width="100%" alt="profile details" />
 
   <br><br>
 
