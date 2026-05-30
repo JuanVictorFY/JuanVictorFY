@@ -1,128 +1,162 @@
+<!-- HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Victor%20Figueroa%20Yupton&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%7C%20Ing.%20de%20Software%20·%20UTP&descAlignY=58&descSize=20&descColor=c8d1d9"/>
+
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2962FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Juan+Victor+Figueroa+Yupton;Ing.+de+Software+en+proceso...;Apasionado+por+el+desarrollo+Full-Stack;Estudiante+en+la+UTP" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=45&lines=Apasionado+por+el+desarrollo+Full-Stack+💻;Backend+robusto+con+Node.js+%26+Spring+Boot+⚙️;Interfaces+dinámicas+con+React+%26+Angular+⚛️;%22Si+puedes+imaginarlo%2C+puedes+programarlo%22+✨" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanVictorFY&label=Vistas+al+perfil&style=for-the-badge&color=2962ff" alt="juan-views" />
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Sobre%20m%C3%AD&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+<!-- INFO BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanVictorFY&label=Vistas+al+perfil&style=flat-square&color=1F6FEB&labelColor=0D1117" alt="views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/JuanVictorFY?label=Seguidores&style=flat-square&color=1F6FEB&labelColor=0D1117&logo=github&logoColor=white" alt="followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lima%2C%20Perú-%F0%9F%87%B5%F0%9F%87%AA-1F6FEB?style=flat-square&labelColor=0D1117" alt="location"/>
+</div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<br>
+
+<!-- ABOUT ME -->
 <table>
   <tr>
-    <td width="60%" valign="center">
-      <br>
-      Soy estudiante de Ingeniería de Software (7mo ciclo) en la UTP. Me especializo en el desarrollo Full-Stack, combinando lógica robusta en el backend con interfaces dinámicas en el frontend.
-      <br><br>
-      <ul>
-        <li>Actualmente enfocado en escalar mis proyectos universitarios y fortalecer mis habilidades técnicas.</li>
-        <li>Profundizando en arquitecturas escalables y nuevas tecnologías de despliegue.</li>
-        <li><b>Mi filosofía:</b> Si puedes imaginarlo, puedes programarlo.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif">
-      </div>
-    </td>
+    <td valign="top" width="55%">
+
+**`📄 about_me.json`**
+
+```json
+{
+  "nombre"      : "Juan Victor Figueroa Yupton",
+  "ubicacion"   : "Lima, Perú 🇵🇪",
+  "educacion"   : "Ing. Software · UTP (7mo ciclo)",
+  "rol"         : "Full-Stack Developer",
+  "stack_fav"   : ["Node.js", "React", "Spring Boot"],
+  "enfocado_en" : [
+    "Arquitecturas escalables 🏗️",
+    "APIs REST robustas 🔌",
+    "Interfaces modernas ✨"
+  ],
+  "filosofia"   : "Si puedes imaginarlo, puedes programarlo"
+}
+```
+
+  </td>
+  <td valign="top" width="45%" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="coding gif"/>
+  </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Tech%20Arsenal&fontSize=30&fontColor=ffffff&fontAlign=50"/>
-
-<div align="center">
-<br>
-
-### 💻 Lenguajes Principales
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
-
-### ⚛️ Frontend Power
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" alt="astro" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
-
-### ⚙️ Backend & DB
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
-
-### 🛠️ Herramientas & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+<!-- TECH STACK -->
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanVictorFY&theme=tokyonight" height="165" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanVictorFY&theme=tokyonight" height="165" alt="languages graph" />
+<details open>
+<summary><b>💻 Lenguajes</b></summary>
+<br>
 
-  <br><br>
+[![Lenguajes](https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark&perline=6)](https://skillicons.dev)
 
-  <img src="https://streak-stats.demolab.com?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=151515&fire=FF6B35&ring=2962FF&currStreakLabel=2962FF" height="165" alt="streak graph" />
+</details>
 
-  <br><br>
+<br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanVictorFY&theme=tokyonight" width="100%" alt="profile details" />
+<details open>
+<summary><b>⚛️ Frontend</b></summary>
+<br>
 
-  <br><br>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,angular,vite,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVictorFY&theme=tokyo-night&hide_border=true&bg_color=151515" alt="activity graph" width="100%"/>
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚙️ Backend & Bases de Datos</b></summary>
+<br>
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,firebase,mysql,postgres,mongodb&theme=dark&perline=7)](https://skillicons.dev)
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🛠️ Herramientas & DevOps</b></summary>
+<br>
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,figma,postman,cloudflare&theme=dark&perline=5)](https://skillicons.dev)
+
+</details>
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<br>
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <h3>📫 Conecta conmigo</h3>
 
-  <a href="mailto:primecodeengineering@gmail.com" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanVictorFY&theme=tokyonight" height="175" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanVictorFY&theme=tokyonight" height="175" alt="repos per language"/>
 
-  <a href="https://github.com/JuanVictorFY" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
+  <br><br>
 
-  <a href="https://linkedin.com/in/JuanVictorFY" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanVictorFY&theme=tokyonight" height="175" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanVictorFY&theme=tokyonight&utcOffset=-5" height="175" alt="productive time"/>
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=1a1b27&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF&sideNums=58A6FF&dates=8b949e&stroke=1F6FEB" width="65%" height="175" alt="streak"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanVictorFY&theme=tokyonight" width="97%" alt="profile details"/>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVictorFY&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" width="97%" alt="activity graph"/>
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<br>
+
+<!-- CONTACT -->
+<h2 align="center">📫 Conecta conmigo</h2>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-primecodeengineering%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primecodeengineering@gmail.com)
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-JuanVictorFY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVictorFY)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JuanVictorFY)
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
