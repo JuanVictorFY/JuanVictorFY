@@ -1,5 +1,5 @@
 <!-- HERO HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Victor%20Figueroa%20Yupton&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%7C%20Ing.%20de%20Software%20·%20UTP&descAlignY=58&descSize=20&descColor=c8d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Victor%20Figueroa%20Yupton&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Ing.%20de%20Software%20%C2%B7%20UTP&descAlignY=58&descSize=20&descColor=c8d1d9"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/JuanVictorFY?label=Seguidores&style=flat-square&color=1F6FEB&labelColor=0D1117&logo=github&logoColor=white" alt="followers"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-%F0%9F%87%B5%F0%9F%87%AA-1F6FEB?style=flat-square&labelColor=0D1117" alt="location"/>
+  <img src="https://img.shields.io/badge/Lima%2C%20Peru-PE-1F6FEB?style=flat-square&labelColor=0D1117" alt="location"/>
 </div>
 
 <br>
@@ -28,19 +28,19 @@
   <tr>
     <td valign="top" width="55%">
 
-**`📄 about_me.json`**
+**`about_me.json`**
 
 ```json
 {
   "nombre"      : "Juan Victor Figueroa Yupton",
-  "ubicacion"   : "Lima, Perú 🇵🇪",
+  "ubicacion"   : "Lima, Peru",
   "educacion"   : "Ing. Software · UTP (7mo ciclo)",
   "rol"         : "Full-Stack Developer",
   "stack_fav"   : ["Node.js", "React", "Spring Boot"],
   "enfocado_en" : [
-    "Arquitecturas escalables 🏗️",
-    "APIs REST robustas 🔌",
-    "Interfaces modernas ✨"
+    "Arquitecturas escalables",
+    "APIs REST robustas",
+    "Interfaces modernas"
   ],
   "filosofia"   : "Si puedes imaginarlo, puedes programarlo"
 }
@@ -60,12 +60,12 @@
 <br>
 
 <!-- TECH STACK -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
 <details open>
-<summary><b>💻 Lenguajes</b></summary>
+<summary><b>Lenguajes</b></summary>
 <br>
 
 [![Lenguajes](https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark&perline=6)](https://skillicons.dev)
@@ -75,7 +75,7 @@
 <br>
 
 <details open>
-<summary><b>⚛️ Frontend</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,angular,vite,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
@@ -85,7 +85,7 @@
 <br>
 
 <details open>
-<summary><b>⚙️ Backend & Bases de Datos</b></summary>
+<summary><b>Backend & Bases de Datos</b></summary>
 <br>
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,firebase,mysql,postgres,mongodb&theme=dark&perline=7)](https://skillicons.dev)
@@ -95,7 +95,7 @@
 <br>
 
 <details open>
-<summary><b>🛠️ Herramientas & DevOps</b></summary>
+<summary><b>Herramientas & DevOps</b></summary>
 <br>
 
 [![Tools](https://skillicons.dev/icons?i=git,docker,figma,postman,cloudflare&theme=dark&perline=5)](https://skillicons.dev)
@@ -111,7 +111,7 @@
 <br>
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -144,7 +144,7 @@
 <br>
 
 <!-- CONTACT -->
-<h2 align="center">📫 Conecta conmigo</h2>
+<h2 align="center">Contacto</h2>
 
 <div align="center">
 
