@@ -115,17 +115,12 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanVictorFY&theme=tokyonight" height="175" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanVictorFY&theme=tokyonight" height="175" alt="repos per language"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVictorFY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorFY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8" height="175" alt="top languages"/>
 
   <br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanVictorFY&theme=tokyonight" height="175" alt="most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanVictorFY&theme=tokyonight&utcOffset=-5" height="175" alt="productive time"/>
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=1a1b27&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF&sideNums=58A6FF&dates=8b949e&stroke=1F6FEB" width="65%" height="175" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=JuanVictorFY&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF&sideNums=58A6FF&dates=8b949e&stroke=1F6FEB" width="65%" height="175" alt="streak"/>
 
   <br><br>
 
@@ -134,6 +129,14 @@
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVictorFY&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" width="97%" alt="activity graph"/>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanVictorFY/JuanVictorFY/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanVictorFY/JuanVictorFY/output/snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/JuanVictorFY/JuanVictorFY/output/snake-dark.svg" width="100%"/>
+  </picture>
 
 </div>
 
