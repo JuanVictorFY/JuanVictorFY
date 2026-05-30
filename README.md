@@ -155,7 +155,7 @@
   &nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-JuanVictorFY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVictorFY)
   &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JuanVictorFY)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-victor-figueroa-yupton-3b2b64412/)
 
 </div>
 
